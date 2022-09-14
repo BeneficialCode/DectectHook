@@ -1,3 +1,6 @@
 # DectectHook
 
-Get System Service Routine Index
+Get Win32k & NT System Service Routine Index 
+
+Shadow SSDT & SSDT
+
